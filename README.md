@@ -1,2 +1,2 @@
 # Employee-Dashboard-in-Excel-Assignment-4
-Dashboard created in Excel to evaluate employee sales data.  Evaluates and compares employee information, employee compensation against benchmark data.  Data visualizations using Excel and publicly available data set.
+How do sales account executives compare with one another and the baseline?  Using VLOOKUP, IF, and MATCH functions in Excel, I analyzed individual employees sales, accounts, and revenue generated. I generated charts in Excel to visualize each employee's statistics with the baseline and then created a self-populating dashboard in Excel for quick and simple visualization for management.  
